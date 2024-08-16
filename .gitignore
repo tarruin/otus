@@ -1,3 +1,7 @@
 .venv/
 catboost_info/
 bin/
+ner/
+*.bin
+*.pickle
+*.tar
